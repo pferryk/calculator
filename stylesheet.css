@@ -1,7 +1,7 @@
 .calculator {
     text-align: center;
     margin: 0 auto;
-    padding-top: 200px;
+    padding-top: 40px;
     width: 400px;
 }
 
@@ -48,4 +48,7 @@ button:hover {
 
 .operator:hover, .equal-sign:hover {
     background-color: darkorange;
+}
+h1, h2 {
+    text-align: center;
 }
