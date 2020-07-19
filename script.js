@@ -70,7 +70,7 @@ equalSign.addEventListener('click', ()=> {
     updateScreen(currentNumber)
 })
 
-const clearBtn = document.querySelector('all-clear')
+const clearBtn = document.querySelector('.all-clear')
 
 clearBtn.addEventListener('click', ()=> {
     clearAll()
